@@ -3,6 +3,8 @@ name = "sql2relational"
 version = "0.1.0"
 description = "Translate SQL statements to relational algebra, as Unicode or LaTeX"
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 authors = [
     { name = "Ej Orr", email = "ejorr@uvm.edu" }
 ]
